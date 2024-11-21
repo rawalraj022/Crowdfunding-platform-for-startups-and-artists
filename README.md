@@ -1,2 +1,2 @@
-# Tech-ParivartanTeam
-Crowdfunding for startups and artists.
+# Crowdfunding website for startups and artists
+
